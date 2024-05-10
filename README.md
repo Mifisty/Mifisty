@@ -15,8 +15,9 @@
     <code><img width="50" title="Jira" src="icons/jira.png"></code>
     <code><img width="50" title="Postman" src="icons/postman.svg"></code>
     <code><img width="50" title="Browserstack" src="icons/browserstack.png"></code>
-    
 </p>
+
+### My Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mifisty&theme=github)
 <br>
