@@ -20,10 +20,9 @@
 ### My Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mifisty&theme=github)
-<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mifisty&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mifisty&theme=github)
-</details>
+
 
 ### Example of my autotest projects
 #### <a target="_blank" href="https://github.com/Mifisty/kazanexpress_project_api_mobile_ui">Project "KazanExpress" online shop</a>
