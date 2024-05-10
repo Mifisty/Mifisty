@@ -14,4 +14,4 @@
 </p>
 
 ### Example of my autotest projects
-#### <a target="_blank" https://github.com/Mifisty/kazanexpress_project_api_mobile_ui">Testing Project KazanExpress online shop «Litres»</a>
+#### <a target="_blank" href="https://github.com/Mifisty/kazanexpress_project_api_mobile_ui">Project "KazanExpress" online shop</a>
