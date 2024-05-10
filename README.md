@@ -13,6 +13,9 @@
     <code><img width="50" title="Allure TestOps" src="icons/allure_testops.png"></code>
     <code><img width="50" title="Telegram" src="icons/tg.png"></code>
     <code><img width="50" title="Jira" src="icons/jira.png"></code>
+    <code><img width="50" title="Postman" src="icons/postman.svg"></code>
+    <code><img width="50" title="Browserstack" src="icons/browserstack.png"></code>
+    
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mifisty&theme=github)
